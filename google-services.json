@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "519696187625",
+    "firebase_url": "https://myreatimechatapplicationdemo.firebaseio.com",
+    "project_id": "myreatimechatapplicationdemo",
+    "storage_bucket": "myreatimechatapplicationdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519696187625:android:3d27b11fbece5b3f",
+        "android_client_info": {
+          "package_name": "demo.myreatimechatapplicationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519696187625-r4bjl553frs1kle8u240sb7mq7l151fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC18gjnmNVloq4gtAp1_U8nt0O4vqlX9Iw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
